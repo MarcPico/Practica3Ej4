@@ -1,4 +1,7 @@
+
 print('Jaume LLoret volvió a estar aquí')
+
+print('Hello world!')
 print('Jaume LLoret estuvo aquí')
 
 #Intoducir variables
